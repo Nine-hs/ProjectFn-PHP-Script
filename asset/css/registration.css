@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    font-family: 'Trirong', serif;
+}
+
+.branner {
+    width: 100%;
+}
+
+.card-box {
+    width: 50%;
+    margin: auto;
+}
+
+.btn-box {
+    margin: 0 auto;
+}
+
+#msg-fn,
+#msg-ln,
+#msg-id,
+#msg-em,
+#msg-pass,
+#msg-cfpass {
+    color: red;
+    font-size: 12px;
+}
+
+
+.btn {
+    width: 20%;
+    margin: 3%;
+}
+
+@media only screen and (max-width: 768px) {
+    .wrap-contain {
+        width: 100%;
+        height: 100%;
+    }
+
+    .branner {
+        width: 100%;
+    }
+
+    .label {
+        font-size: 12px;
+    }
+
+    .btn {
+        width: 100%;
+        margin: auto;
+        margin-top: 2px;
+    }
+
+    .card {
+        width: 100%;
+        border: none;
+        margin: 0;
+        padding: 0;
+        margin-bottom: 5px;
+    }
+
+    .card-title {
+        font-size: 18px;
+    }
+}

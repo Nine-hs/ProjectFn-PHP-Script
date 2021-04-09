@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Trirong', serif;
+}
+
+
+.wrap-contain {
+  display: flex;
+  width: 40rem;
+  height: 35rem;
+  margin: 0 auto;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+#msg-user , #msg-pass {
+  color: red;
+  font-size: 12px;
+}
+
+.box-login {
+  height: 30rem;
+  width: 40rem;
+}
+
+h4 {
+  text-align: center;
+  margin: 4%;
+}
+
+
+h5 {
+  text-align: center;
+  margin: 4%;
+}
+
+.label {
+  font-size: 14px;
+}
+
+.logo {
+  width: 80px;
+  display: flex;
+  margin: 0 auto;
+}
+
+.footer {
+  bottom: 0px;
+  left: 0;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  margin: 0 auto;
+}
+
+.footer p {
+  text-align: center;
+  font-size: 12px;
+  display: flex;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 768px) {
+  .wrap-contain {
+    width: 100%;
+  }
+
+  .label {
+    font-size: 12px;
+  }
+
+  h4 {
+    font-size: 14px;
+  }
+
+  .txt {
+    height: 30px;
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+    margin: 3%;
+    font-size: 12px;
+  }
+
+  a {
+    font-size: 12px;
+  }
+  .btn-reset{
+    width: 100%;
+    margin: 0  auto;
+  }
+  .reset-title{
+    font-size: 14px;
+  }
+  .form-text{
+    font-size: 12px;
+  }
+}

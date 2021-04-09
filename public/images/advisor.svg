@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="276" height="286" viewBox="0 0 276 286">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="138" cy="143" rx="138" ry="143" transform="translate(226 212)" fill="#0cd5ac"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-226 -212)">
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="138" cy="143" rx="138" ry="143" transform="translate(226 212)" fill="#0cd5ac"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" d="M501.3,476.451s-4.734-118.343,91.361-115.5,83.787,115.5,83.787,115.5Z" transform="translate(-225 22)" fill="rgba(125,123,123,0.65)"/>
+        <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="45" cy="46" rx="45" ry="46" transform="translate(320 290)" fill="rgba(125,123,123,0.87)"/>
+        <path id="Path_2" data-name="Path 2" d="M351.049,383.826l13.9,20.479L380.5,383.826a124.8,124.8,0,0,0-14.893-.9A78.877,78.877,0,0,0,351.049,383.826Z" transform="translate(-1 -0.016)" fill="#dadada"/>
+        <path id="Path_3" data-name="Path 3" d="M382.943,383.951c-1.76,2.594,3.01,25.029,3.01,25.029l-17.4-6.1S384.7,381.357,382.943,383.951Z" transform="translate(-3.55)" fill="#a7bfad"/>
+        <path id="Path_4" data-name="Path 4" d="M371.488,383.944c1.718,2.506-2.939,24.181-2.939,24.181l16.991-5.889S369.77,381.438,371.488,383.944Z" transform="translate(-0.766 -18.763) rotate(3)" fill="#a7bfad"/>
+        <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(337 323)" fill="#fff" stroke="#707070" stroke-width="2">
+          <ellipse cx="11.5" cy="11" rx="11.5" ry="11" stroke="none"/>
+          <ellipse cx="11.5" cy="11" rx="10.5" ry="10" fill="none"/>
+        </g>
+        <line id="Line_1" data-name="Line 1" x2="18" y2="3" transform="translate(320.5 329.5)" fill="none" stroke="#707070" stroke-width="2"/>
+        <path id="Path_5" data-name="Path 5" d="M359.241,329.5l4.677-1.793,5.205,1.793" transform="translate(0 5)" fill="none" stroke="#707070" stroke-width="2"/>
+        <line id="Line_2" data-name="Line 2" y1="3" x2="20" transform="translate(389.5 329.5)" fill="none" stroke="#707070" stroke-width="2"/>
+        <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(368 323)" fill="#fff" stroke="#707070" stroke-width="2">
+          <ellipse cx="11.5" cy="11" rx="11.5" ry="11" stroke="none"/>
+          <ellipse cx="11.5" cy="11" rx="10.5" ry="10" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

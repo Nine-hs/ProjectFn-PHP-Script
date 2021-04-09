@@ -1,0 +1,53 @@
+* {
+    font-family: 'Trirong', serif;
+}
+
+.table-height {
+    max-height: 400px;
+    height: 400px;
+}
+
+.topic{
+    font-size: 18px;
+    font-family: 'Trirong', serif;
+}
+
+.material-icons {
+    color: black;
+}
+
+.tb-scholar {
+    height: 600px;
+    max-height: 600px;
+}
+
+.col-scholar{
+    height: 590px;
+    max-height: 590px;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+   th{
+       font-size: 12px;
+   }
+
+   td{
+       font-size: 12px;
+   }
+   .table{
+       width: 200%;
+   }
+   .topic{
+       font-size: 18px;
+   }
+   #year{
+       display: none;
+   }
+   .width-box{
+       width: 200%;
+   }
+  }
+
+  

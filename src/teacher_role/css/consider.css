@@ -1,0 +1,44 @@
+* {
+    font-family: 'Trirong', serif;
+}
+.material-icons {
+    color: black;
+}
+.card-box{
+    width: 60%;
+    margin: 0 auto;
+    margin-bottom: 5rem;
+}
+.card-header{
+    width: 100%;
+    display: block;
+}
+
+.text-footer{
+    text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+    .card-box{
+        width: 95%;
+        margin: 0 auto;
+        margin-bottom: 5rem;
+    }
+    .tb-responsive{
+        width: 900px;
+    }
+    .label{
+        font-size: 12px;
+    }
+    td{
+        font-size: 12px;
+    }
+    h6{
+        font-size: 13px;
+        font-weight: 900;
+    }
+    .save-btn{
+        width: 100%;
+        margin: 5px;
+    }
+}

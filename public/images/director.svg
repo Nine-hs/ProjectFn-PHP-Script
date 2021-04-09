@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="276" height="286" viewBox="0 0 276 286">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="138" cy="143" rx="138" ry="143" transform="translate(170 224)" fill="#0cd5ac"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(-96 -198)">
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="138" cy="143" rx="138" ry="143" transform="translate(96 198)" fill="#0cd5ac"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-74 -26)" clip-path="url(#clip-path)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" d="M501.3,476.451s-4.734-118.343,91.361-115.5,83.787,115.5,83.787,115.5Z" transform="translate(-281 34)" fill="rgba(125,123,123,0.65)"/>
+        <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="45" cy="46" rx="45" ry="46" transform="translate(264 302)" fill="rgba(125,123,123,0.87)"/>
+        <path id="Path_2" data-name="Path 2" d="M283.267,398.872,307.5,434.264l28.416-35.392a122.512,122.512,0,0,0-26.261-3.752,105.371,105.371,0,0,0-26.8,3.406Z" transform="translate(0.119 -0.208)" fill="#fff"/>
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="2.5" cy="2.5" r="2.5" transform="translate(305 395)" fill="#7d7d7d"/>
+        <path id="Path_3" data-name="Path 3" d="M307.526,399.761l-6.517,24.287,7.276,11.087,7.946-10.288-6.83-25.086Z" transform="translate(-1 -0.761)" fill="#5d5656" stroke="#707070" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

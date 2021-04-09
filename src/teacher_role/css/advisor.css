@@ -1,0 +1,18 @@
+* {
+    font-family: 'Trirong', serif;
+}
+.table-height{
+    max-height: 360px;
+    height: 360px; 
+}
+.material-icons {
+    color: black;
+}
+
+@media only screen and (max-width: 768px) {
+ 
+ .table{
+     width: 200%;
+ }
+ 
+}

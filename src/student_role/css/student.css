@@ -1,0 +1,74 @@
+* {
+    font-family: 'Trirong', serif;
+}
+
+.material-icons {
+    color: black;
+}
+
+.card-box {
+    max-width: 65%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.box-btn {
+    display: block;
+    margin: 0 auto;
+}
+
+.label {
+    font-size: 13px;
+}
+
+.text-footer {
+    text-align: center;
+}
+
+.footer {
+    height: auto;
+    width: 100%;
+}
+
+@media only screen and (max-width: 768px) {
+    .tb-responsive {
+        width: 900px;
+    }
+
+    .card-box {
+        max-width: 100%;
+        margin-top: 3%;
+        margin: 3%;
+    }
+
+    td {
+        font-size: 12px;
+    }
+
+    .done-btn,
+    .home-btn {
+        width: 100%;
+        margin: 3px;
+    }
+
+    .footer {
+        height: 8rem;
+        width: 100%;
+    }
+
+    .text-footer {
+        text-align: center;
+    }
+
+    .topic {
+        font-size: 13px;
+    }
+
+    .topic-logo {
+        display: none;
+    }
+    #year,.pull-right{
+        display: none;
+    }
+ 
+}
