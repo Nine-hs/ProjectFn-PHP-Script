@@ -1,0 +1,15 @@
+---
+application:
+  name: "projectfn"
+  project: "test"
+  organization: "QoveryCommunity"
+databases:
+- type: "MYSQL"
+  name: "scholarship"
+  version: "5.7"
+routers:
+- name: "main-projectfn"
+  routes:
+  - application_name: "projectfn"
+    paths:
+    - "/*"
